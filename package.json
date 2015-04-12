@@ -1,0 +1,23 @@
+{
+  "name": "material-design-iconfont",
+  "version": "1.0.0",
+  "description": "",
+  "main": "material-design-iconfont.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FezVrasta/material-design-iconfont.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FezVrasta/material-design-iconfont/issues"
+  },
+  "homepage": "https://github.com/FezVrasta/material-design-iconfont",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.12.2"
+  }
+}
